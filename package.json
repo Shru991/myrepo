@@ -8,7 +8,7 @@
 
   "private": true,
 
-  "main": "index.js",
+  "main": "test.js",
 
   "scripts": {
 
