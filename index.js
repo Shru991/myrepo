@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('welcome from idiots');
+  res.send('welcome from shruti');
 
 });
 
